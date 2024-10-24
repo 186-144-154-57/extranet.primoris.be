@@ -1,0 +1,14 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  table {
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  td {
+    padding: 10px;
+    border: 1px solid rgb(204, 11, 11);
+  }
